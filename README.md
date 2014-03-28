@@ -1,3 +1,11 @@
+
+# Ruby on Rails tutorial
+first application from tutorial at http://ruby.railstutorial.org/
+Parvinderjit Singh created on 03/28/14
+
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
